@@ -59,7 +59,7 @@ DATABASE_URL="provider://user:password@host:port/name_db"
 DATABASE_URL="postgresql://postgres:micontraseña@localhost:5432/database"
 ```
 
-## 🗄️ Configuracion de 
+## 🗄️ Configuracion de prisma 
 
 Una vez configurado el archivo `.env` e instalado todas las dependencias, debes configurar la base de datos con prisma. Ejecuta los siguientes comandos para configurar prisma:
 ```bash
