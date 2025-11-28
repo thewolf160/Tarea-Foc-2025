@@ -153,7 +153,7 @@ const WarehousesServices = {
             });
             return {
                 message: `Almacén eliminado exitosamente`,
-                status: 200,
+                status: 204,
                 data: {
                     warehouse,
                 },

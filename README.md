@@ -78,6 +78,14 @@ Ejecuta el siguiente comando para ejecutar la aplicación:
 npm run start:dev
 ```
 
+## Diagrama de arquitectura
+
+<div align="center">
+
+![Diagrama de arquitectura](/Arquitectura_Por_Capas.png)
+
+</div>
+
 ## 🎯 Funcionalidades
 
 ### 📊 Gestión Completa de Módulos
